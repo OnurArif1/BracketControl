@@ -1,0 +1,14 @@
+C:\Users\lenovo\OneDrive\Masaüstü\C#SampleQuestion\SampleQuestion\exsample21\bin\Debug\netcoreapp3.1\exsample21.exe
+C:\Users\lenovo\OneDrive\Masaüstü\C#SampleQuestion\SampleQuestion\exsample21\bin\Debug\netcoreapp3.1\exsample21.deps.json
+C:\Users\lenovo\OneDrive\Masaüstü\C#SampleQuestion\SampleQuestion\exsample21\bin\Debug\netcoreapp3.1\exsample21.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Masaüstü\C#SampleQuestion\SampleQuestion\exsample21\bin\Debug\netcoreapp3.1\exsample21.runtimeconfig.dev.json
+C:\Users\lenovo\OneDrive\Masaüstü\C#SampleQuestion\SampleQuestion\exsample21\bin\Debug\netcoreapp3.1\exsample21.dll
+C:\Users\lenovo\OneDrive\Masaüstü\C#SampleQuestion\SampleQuestion\exsample21\bin\Debug\netcoreapp3.1\exsample21.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\C#SampleQuestion\SampleQuestion\exsample21\obj\Debug\netcoreapp3.1\exsample21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Masaüstü\C#SampleQuestion\SampleQuestion\exsample21\obj\Debug\netcoreapp3.1\exsample21.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\C#SampleQuestion\SampleQuestion\exsample21\obj\Debug\netcoreapp3.1\exsample21.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Masaüstü\C#SampleQuestion\SampleQuestion\exsample21\obj\Debug\netcoreapp3.1\exsample21.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\C#SampleQuestion\SampleQuestion\exsample21\obj\Debug\netcoreapp3.1\exsample21.dll
+C:\Users\lenovo\OneDrive\Masaüstü\C#SampleQuestion\SampleQuestion\exsample21\obj\Debug\netcoreapp3.1\exsample21.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\C#SampleQuestion\SampleQuestion\exsample21\obj\Debug\netcoreapp3.1\exsample21.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Masaüstü\C#SampleQuestion\SampleQuestion\exsample21\obj\Debug\netcoreapp3.1\exsample21.csproj.AssemblyReference.cache
